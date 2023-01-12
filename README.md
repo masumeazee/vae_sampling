@@ -21,6 +21,8 @@ different way to cluster the final matrix as result.
 More reviews could be found in the link below :
 
 https://arxiv.org/abs/1312.6114
+
 https://keras.io/examples/generative/vae/
+
 https://openreview.net/forum?id=33X9fd2-9FyZd
 
