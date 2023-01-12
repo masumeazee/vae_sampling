@@ -18,11 +18,11 @@ different way to cluster the final matrix as result.
 
 
 
-More reviews could be found in the link below :
+More reviews can be found here, links below :
 
-https://arxiv.org/abs/1312.6114
+https://arxiv.org/abs/1312.6114    main paper
 
-https://keras.io/examples/generative/vae/
+https://keras.io/examples/generative/vae/  standard code from keras blog
 
-https://openreview.net/forum?id=33X9fd2-9FyZd
+https://openreview.net/forum?id=33X9fd2-9FyZd  more reviews about vae model
 
