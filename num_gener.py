@@ -1,5 +1,4 @@
-
-
+# -*- coding: utf-8 -*-
 import tensorflow as tf
 from sklearn import datasets
 import matplotlib.pyplot as plt
@@ -87,3 +86,5 @@ print(cluster_assignments)
 # Create a scatter plot of the generated samples
 plt.scatter(generated_samples[:, 0], generated_samples[:, 1], c=cluster_assignments, cmap='rainbow', s=30)
 plt.show
+
+## __BARBA__ ##
